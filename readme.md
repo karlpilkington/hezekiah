@@ -21,3 +21,4 @@
 
 * **Mailchimp** - Ddd donors to a list and places them in an *interest group* with the same name as the campaign they donated to. It's nice to email donors updates!
 
+
